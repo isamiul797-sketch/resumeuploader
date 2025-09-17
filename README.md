@@ -27,4 +27,4 @@ All submitted data is stored in the database and files are stored in the `media/
 1. **Clone the repository**
    ```bash
    git clone https://github.com/isamiul797-sketch/resumeuploader.git
-   cd resumeuploader
+
